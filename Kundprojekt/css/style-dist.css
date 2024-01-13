@@ -1,0 +1,1 @@
+@mixin link ($hover, $active, $visited){&:hover{color:$hover}&:active{color:$active}&:visited{color:$visited}}a{@include link ($red, $green, $blue)}body{background:gray}

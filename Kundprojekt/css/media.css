@@ -1,0 +1,75 @@
+
+
+@media (max-width: 1200px) {
+    .container {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 1024px){
+    .cookies {
+        padding: 10px 0;
+    }
+}
+
+@media (max-width: 767px){
+    .chickpeas {
+        margin-left: 25px;
+    }
+
+    .menu_choice ul li h3 {
+        font-size: 1.1em;
+    }
+
+    .menu_choice ul li p {
+        font-size: 1em;
+    }
+
+    .menu_choice ul li span {
+        font-size: 1.1em;
+    }
+
+    .wrapper_footer .footer_form .contactInfo{
+        font-size: 0.7em;
+    }
+
+    .wrapper_footer .footer_form .bookning {
+        font-size: 0.7em;
+    }
+
+    .wrapper_footer .footer_form .btnCancel,
+    .wrapper_footer .footer_form .btnRequest, 
+    .container .subcontainer .cookies #cookies-btnYellow,
+    .container .subcontainer .cookies #cookies-btnGreen {
+        padding: 2px 10px 2px 10px;
+        font-size: 1em;
+    }
+
+    .wrapper_footer .footer_form .bookning h2 {
+        font-size: 1.3em;
+    }
+
+    #cookies {
+        font-size:0.7em;
+    }
+}
+
+@media (max-width: 576px){
+    .main_course, .crispy_iceberg  {
+       font-size: 1em;
+    }
+
+    .menu_cards {
+        display: none;
+    }
+
+    .menu_choice ul li h3 {
+        font-size: 0.8em;
+    }
+
+    .menu_choice ul li p {
+        font-size: 0.7em;
+    }
+    
+}
